@@ -1,4 +1,4 @@
-# tradignview-indicators
+# tradingview-indicators
 Eigene meiner einigen Tradingview-Indikatoren
 
 Die Code oben sind Skripte für TradingView, ide in der "Pine Script-Sprache" geschrieben sind. 
